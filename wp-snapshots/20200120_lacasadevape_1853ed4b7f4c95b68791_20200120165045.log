@@ -1,0 +1,84 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 20 January 2020 16 h 51 min
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.24
+WORDPRESS:	5.2.5
+PHP INFO:	7.1.16 | SAPI: apache2handler
+SERVER:		Apache/2.4.33 (Win64) PHP/7.1.16 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+MEMORY STACK: 2MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20200120_lacasadevape_1853ed4b7f4c95b68791_20200120165045_database.sql
+SQL FILE SIZE: 24.83MB (26033634)
+SQL FILE TIME: 2020-01-20 16:51:57
+SQL RUNTIME: 18.37 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/wamp64/www/Vape
+ARCHIVE FILE: 20200120_lacasadevape_1853ed4b7f4c95b68791_20200120165045_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	218.19MB
+STATS:	Dirs 2,020 | Files 15,529
+SQL ADDED: 20200120_lacasadevape_1853ed4b7f4c95b68791_20200120165045_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 17549
+    [filename] => C:\wamp64\www\Vape\wp-snapshots\tmp\20200120_lacasadevape_1853ed4b7f4c95b68791_20200120165045_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 17548
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 101.98MB
+ARCHIVE RUNTIME: 274.06 sec.
+MEMORY STACK: 2MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/wamp64/www/Vape/wp-snapshots/tmp/20200120_lacasadevape_1853ed4b7f4c95b68791_20200120165045_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 24.83MB
+INSTALLER FILE: 60.53KB
+ARCHIVE FILE: 103.39MB 
+COMPTE ATTENDU DE FICHIERS/RÉPERTOIRES : 17,549
+COMPTE ACTUEL DE FICHIERS/RÉPERTOIRES : 17,548
+TEST DE COHÉRENCE D’ARCHIVE : Bon
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 294.75 sec.
+PEAK PHP MEMORY USED: 2MB
+DONE PROCESSING => 20200120_lacasadevape 20 January 2020 16 h 56 min
+
